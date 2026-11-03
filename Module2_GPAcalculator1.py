@@ -1,6 +1,7 @@
 # Author: Norman C Blizard
 # Date: 11/3/2026
 #file name: Module2_GPAcalculator1.py
+#URL: https://github.com/normc812/Module-2-IfElse/blob/main/Module2_GPAcalculator1.py
 #Description: This program inputs the 
 # last and first names and GPA
 # of a student and determines whether they are 
